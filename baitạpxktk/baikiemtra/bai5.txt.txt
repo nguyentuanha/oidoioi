@@ -1,0 +1,9 @@
+git init:Khởi tạo 1 git repository 1 project mới hoặc đã có
+git add . :Tác dụng: Thêm thay đổi đến stage/index trong thư mục làm việc.
+git commit -m "first commit":commit nghĩa là một action để Git lưu lại một snapshot của các sự thay đổi trong thư mục làm việc. Và các tập tin, thư mục
+                             làm việc. Và các tập tin, thư mục được thay đổi đã phải nằm trong Staging Area. Mỗi lần commit nó sẽ được lưu lại chỉnh sửa
+                             của code kèm theo tên địa chỉ email của người commit
+git remote:Để check remote/source bạn có hoặc add thêm remote
+git push:Lệnh git push được sử dụng để cập nhật các nhánh từ xa với những thay đổi mới nhất mà bạn đã commit.
+git clone:Copy 1 git repository từ remote source.
+git pull:Pull requests thể hiện các đề xuất thay đổi cho nhánh chính. 
