@@ -1,0 +1,5 @@
+print("nguyentuanha1451020072")
+l=str(input("Nhap ten và viet lien khong dau:"))
+t=tuple(l)
+print (l)
+print (t)
